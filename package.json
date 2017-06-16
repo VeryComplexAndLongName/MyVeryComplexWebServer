@@ -10,7 +10,7 @@
   "author": "Alex <VeryComplexAndLongName@gmail.com>",
   "license": "MIT",
   "analyze": true,
-  "dependecies": {    
+  "dependencies": {    
     "express": "^4.14.1"
   }
 }
